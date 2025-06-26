@@ -68,9 +68,6 @@ A CNN-based food classification project that identifies cuisine types from dish 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-pandey-418299184/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/AkshatP0285)
 
----
-
-### 🐍 GitHub Activity Snake (optional eye candy)
 
 ```md
 <!-- Keep at bottom -->
