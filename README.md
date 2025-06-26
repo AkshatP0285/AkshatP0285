@@ -64,16 +64,11 @@ A CNN-based food classification project that identifies cuisine types from dish 
 ---
 
 ### 📫 Connect with Me
+<div align="center">
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-pandey-418299184/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/AkshatP0285)
+[![Email](https://img.shields.io/badge/Email-akshat.84p@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:akshat.84p@gmail.com)
 
-
-```md
-<!-- Keep at bottom -->
-![snake gif](https://github.com/AkshatP0285/AkshatP0285/blob/output/github-contribution-grid-snake.svg)
-
-<!---
-AkshatP0285/AkshatP0285 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</div>
