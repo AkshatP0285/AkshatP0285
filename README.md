@@ -41,6 +41,10 @@
 
 ### 🚀 Featured Projects
 
+🧠 **[PMI Estimation using Forensic Iris Images](https://github.com/AkshatP0285/PMI-Estimation-Using-Forensic-Iris-Images)** 
+Bachelor’s thesis project on predicting Post-Mortem Interval using RGB & NIR iris images with deep learning (CNNs, DINO, CLIP).
+
+
 🔬 **[Heart Failure Mortality Prediction – ICU Data](https://github.com/AkshatP0285/Prediction-of-Mortality-Rate-of-Heart-Failure-Patients-Admitted-to-ICU)**  
 A machine learning pipeline to predict patient mortality using clinical features. Involves preprocessing, feature engineering, and model comparison (RandomForest, XGBoost, SVM).
 
