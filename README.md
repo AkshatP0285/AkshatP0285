@@ -8,8 +8,7 @@
 ### 👨‍💻 About Me
 
 🎓 Final-year Data Science & Engineering student at IISER Bhopal  
-🔬 Passionate about Deep Learning, Computer Vision, and Applied AI in healthcare  
-💼 Currently a Data Science Intern at **MiQ Digital**, Bangalore  
+🔬 Passionate about Deep Learning, Computer Vision, and Applied AI in healthcare    
 🧠 Worked on **GANs, Diffusion Models**, and **PMI Estimation** using iris scans  
 🚀 Actively building and contributing to open-source, research & real-world AI projects  
 
@@ -51,6 +50,7 @@ A CNN-based food classification project that identifies cuisine types from dish 
 ---
 
 ### 📈 GitHub Stats
+<div align="center">
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AkshatP0285&show_icons=true&theme=radical" width="48%" />
@@ -60,6 +60,7 @@ A CNN-based food classification project that identifies cuisine types from dish 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatP0285&layout=compact&theme=radical" width="48%" />
 </p>
+</div>
 
 ---
 
