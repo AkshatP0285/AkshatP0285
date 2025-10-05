@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me
 
-🎓 Final-year Data Science & Engineering student at IISER Bhopal  
+🎓 BS in Data Science & Engineering, IISER Bhopal  
 🔬 Passionate about Deep Learning, Computer Vision, and Applied AI in healthcare    
 🧠 Worked on **GANs, Diffusion Models**, and **PMI Estimation** using iris scans  
 🚀 Actively building and contributing to open-source, research & real-world AI projects  
