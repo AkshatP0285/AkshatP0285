@@ -47,6 +47,7 @@ Bachelor’s thesis project on predicting Post-Mortem Interval using RGB & NIR i
 
 🔬 **[Heart Failure Mortality Prediction – ICU Data](https://github.com/AkshatP0285/Prediction-of-Mortality-Rate-of-Heart-Failure-Patients-Admitted-to-ICU)**  
 A machine learning pipeline to predict patient mortality using clinical features. Involves preprocessing, feature engineering, and model comparison (RandomForest, XGBoost, SVM).
+
 ---
 
 ### 📈 GitHub Stats
