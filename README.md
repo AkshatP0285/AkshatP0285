@@ -88,9 +88,9 @@ A machine learning pipeline to predict patient mortality using clinical features
   <img src="https://komarev.com/ghpvc/?username=AkshatP0285&label=Profile%20Views&color=ff69b4&style=flat" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatP0285&layout=compact&theme=radical" width="48%" />
-</p>
+</p> -->
 </div>
 ---
 
