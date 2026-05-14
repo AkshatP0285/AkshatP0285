@@ -79,7 +79,7 @@ A machine learning pipeline to predict patient mortality using clinical features
 <div align="center">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkshatP0285&show_icons=true&theme=radical" width="48%" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=AkshatP0285&show_icons=true&theme=radical" width="48%" /> -->
   <img src="https://streak-stats.demolab.com?user=AkshatP0285&theme=radical" width="48%" />
 </p>
 
@@ -92,7 +92,7 @@ A machine learning pipeline to predict patient mortality using clinical features
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatP0285&layout=compact&theme=radical" width="48%" />
 </p> -->
 </div>
----
+
 
 ### 📫 Connect with Me
 <div align="center">
