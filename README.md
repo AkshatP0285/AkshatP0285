@@ -1,18 +1,25 @@
 <!-- Profile Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&height=45&lines=Hi+there+%F0%9F%91%8B+I'm+Akshat+Pandey;Data+Scientist+%7C+AI+Research+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=900&height=45&lines=Hi+there+%F0%9F%91%8B+I'm+Akshat+Pandey;AI+Researcher+%7C+Computer+Vision+%26+Medical+Imaging+%7C+Agentic+AI+Systems" alt="Typing SVG" />
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-🎓 BS in Data Science & Engineering, IISER Bhopal  
-🔬 Passionate about Deep Learning, Computer Vision, and Applied AI in healthcare    
-🧠 Worked on **GANs, Diffusion Models**, and **PMI Estimation** using iris scans  
+🎓 BS in Data Science & Engineering, IISER Bhopal     
+🧠 Interested in Computer Vision, Multimodal Learning, Agentic AI Systems, and Foundation Models    
 🚀 Actively building and contributing to open-source, research & real-world AI projects  
 
 ---
+### 🔍 Current Research Interests
+
+- Medical Image Analysis
+- Multimodal & Vision-Language Models
+- Agentic AI Systems
+- Foundation Models for Healthcare
+- Clinical Decision Support Systems
+- Biometrics & Forensic AI
 
 ### 🧰 Tech Stack & Tools
 
@@ -26,6 +33,14 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![LangGraph]
+![Transformers]
+![HuggingFace]
+![OpenAI]
+![Gemini]
+![Vertex AI]
+![Gradio]
+![MONAI]
 
 #### ⚙️ Tools & Platforms  
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
@@ -41,9 +56,12 @@
 
 ### 🚀 Featured Projects
 
+
+🧠 **[Agentic Workflow for Rib Fractures](https://github.com/AkshatP0285/Agentic_Workflow_Ribfrac)** 
+Multi-agent clinical workflow system for rib fracture detection, classification, and report generation using LangGraph ReAct agents, Gemini/Vertex AI, nnUNet segmentation, and Gradio-based visualization.
+
 🧠 **[PMI Estimation using Forensic Iris Images](https://github.com/AkshatP0285/PMI-Estimation-Using-Forensic-Iris-Images)** 
 Bachelor’s thesis project on predicting Post-Mortem Interval using RGB & NIR iris images with deep learning (CNNs, DINO, CLIP).
-
 
 🔬 **[Heart Failure Mortality Prediction – ICU Data](https://github.com/AkshatP0285/Prediction-of-Mortality-Rate-of-Heart-Failure-Patients-Admitted-to-ICU)**  
 A machine learning pipeline to predict patient mortality using clinical features. Involves preprocessing, feature engineering, and model comparison (RandomForest, XGBoost, SVM).
