@@ -34,14 +34,20 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![LangGraph]
-![Transformers]
-![HuggingFace]
-![OpenAI]
-![Gemini]
-![Vertex AI]
-![Gradio]
-![MONAI]
+
+#### 🤖 AI, LLMs & Agentic Frameworks
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFCC4D?style=flat&logo=huggingface&logoColor=black)
+![LangGraph](https://img.shields.io/badge/LangGraph-121D33?style=flat&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75FF?style=flat&logo=googlebard&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat&logo=gradio&logoColor=white)
+![MONAI](https://img.shields.io/badge/MONAI-7B42BC?style=flat)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![DINOv2](https://img.shields.io/badge/DINOv2-0A0A0A?style=flat)
+![CLIP](https://img.shields.io/badge/CLIP-412991?style=flat)
+![nnUNet](https://img.shields.io/badge/nnUNet-009688?style=flat)
 
 #### ⚙️ Tools & Platforms  
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
@@ -77,11 +83,15 @@ A machine learning pipeline to predict patient mortality using clinical features
   <img src="https://streak-stats.demolab.com?user=AkshatP0285&theme=radical" width="48%" />
 </p>
 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AkshatP0285&label=Profile%20Views&color=ff69b4&style=flat" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatP0285&layout=compact&theme=radical" width="48%" />
 </p>
 </div>
-
 ---
 
 ### 📫 Connect with Me
