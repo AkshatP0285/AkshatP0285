@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=900&height=45&lines=Hi+there+%F0%9F%91%8B+I'm+Akshat+Pandey;AI+Researcher+%7C+Computer+Vision+%26+Medical+Imaging+%7C+Agentic+AI+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=900&height=45&lines=Hi+there+%F0%9F%91%8B+I'm+Akshat+Pandey;AI+ Researcher+%7C+Computer+Vision+%26+Medical+Imaging+%7C+Agentic+AI+Systems" alt="Typing SVG" />
 </div>
 
 ---
