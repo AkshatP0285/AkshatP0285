@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-🎓 MS in Computer Science & Engineering, IIIT Hyderabad
+🎓 MS in Computer Science & Engineering, IIIT Hyderabad     
 🎓 BS in Data Science & Engineering, IISER Bhopal     
 🧠 Interested in Computer Vision, Autonomous Driving, Multimodal Learning, Agentic AI Systems, and Foundation Models    
 🚀 Actively building and contributing to open-source, research & real-world AI projects  
