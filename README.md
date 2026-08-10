@@ -8,13 +8,15 @@
 
 ### 👨‍💻 About Me
 
+🎓 MS in Computer Science & Engineering, IIIT Hyderabad
 🎓 BS in Data Science & Engineering, IISER Bhopal     
-🧠 Interested in Computer Vision, Multimodal Learning, Agentic AI Systems, and Foundation Models    
+🧠 Interested in Computer Vision, Autonomous Driving, Multimodal Learning, Agentic AI Systems, and Foundation Models    
 🚀 Actively building and contributing to open-source, research & real-world AI projects  
 
 ---
 ### 🔍 Current Research Interests
 
+- Autonomous Driving
 - Medical Image Analysis
 - Multimodal & Vision-Language Models
 - Agentic AI Systems
